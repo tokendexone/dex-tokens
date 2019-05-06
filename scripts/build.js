@@ -12,7 +12,7 @@ blockchains.forEach(blockchain=>{
     }, [])
     
     let tokensMd = tokens.reduce((reduced, token) => {
-        return reduced + `|  <img src="https://raw.githubusercontent.com/tokendexone/eos-tokens/master/${blockchain}/${token.account}/${token.symbol}.png" width=30 />  | [${token.symbol}](https://github.com/BlockABC/eos-tokens/blob/master/tokens/${token.account}/${token.symbol}.json) | [${token.account}](https://eospark.com/contract/${token.account}) |\n`
+        return reduced + `|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/${blockchain}/${token.account}/${token.symbol}.png" width=30 />  | [${token.symbol}](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/${blockchain}/${token.account}/${token.symbol}.json) | [${token.account}](http://tokendex.one/pair/${blockchain.toLowerCase()}${token.symbol.toLowerCase()}) |\n`
     }, '|   Logo    | Symbol      | Account Name |\n| ----------- |:------------:|:------------:|\n')
 
     let start_tag = blockchain + '_token_list_start'
@@ -22,9 +22,9 @@ blockchains.forEach(blockchain=>{
     
     let readme = fs.readFileSync('./README.md', 'utf-8')
 
-    let regex = new RegExp(`<!-- ${start_tag} -->(.|\\s)<!-- ${end_tag} -->`,'gi')
+    let regex = new RegExp(`<!-- ${start_tag} -->(.|\\s)*?<!-- ${end_tag} -->`,'gi')
 
     readme = readme.replace(regex, tokensMd)
-    
+    console.log(tokensMd)
     fs.writeFileSync('./README.md', readme, 'utf-8')
 })

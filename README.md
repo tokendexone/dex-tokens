@@ -22,11 +22,41 @@ Thanks to [BlockABC](https://github.com/BlockABC/eos-tokens) for initial data.
 2. `invalid` field is only used to indicate that this token is invalid on chain. If your token is valid, please don't fill in this field.
 
 
+## Template
+Please submit your token's JSON file follow template below. [EOS](./tokens/eosio.token)
+
+```json
+{
+  "name": "EOS",
+  "symbol": "EOS",
+  "contract": "eosio.token",
+  "issuer": "eosio",
+  "precision": 4,
+  "logo": "https://github.com/tokendexone/dex-tokens/blob/master/eos/{CONTRACT_ACCOUNT}/{TOKEN_NAME_UPPERCASE}.png",
+  "desc": {
+    "en": "EOS (Enterprise Operation System) is a blockchain smart contract platform developed by Block.one, which aims to provide bottom blockchain platform services for high-performance distributed applications.",
+    "zh": "EOS (Enterprise Operation System) 是一个区块链智能合约平台，由Block.one 开发。它致力于为高性能分布式应用提供区块链底层服务。",
+    "ko": "EOS (Enterprise Operation System) 는 블록 스마트 플랫폼으로 블 락 원 (Block.one)이 개발 했다.고성능 분산 식 응용을 위해 지역 체인 하위 서비스를 제공 합니다."
+  },
+  "website": "https://eos.io",
+  "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+  "links": {
+    "github": "https://github.com/{your-token}",
+    "telegram": "https://t.me/joinchat/{your-token}",
+    "twitter": "https://twitter.com/{your-token}",
+    "steemit": "https://steemit.com/{your-token}",
+    "reddit": "https://www.reddit.com/r/{your-token}/",
+    "wechat": "{your-token}"
+  }
+}
+```
+
+
 ## EOS Token List
 <!-- eos_token_list_start -->
 |   Logo    | Symbol      | Account Name |
 | ----------- |:------------:|:------------:|
-|  <img src="https://raw.githubusercontent.com/tokendexone/eos-tokens/master/tokens/tokendexcoin/TDC.png" width=30 />  | [TDC](https://github.com/BlockABC/eos-tokens/blob/master/tokens/tokendexcoin/TDC.json) | [tokendexcoin](https://eospark.com/contract/tokendexcoin) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/tokendexcoin/TDC.png" width=30 />  | [TDC](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/tokendexcoin/TDC.json) | [tokendexcoin](http://tokendex.one/pair/eostdc) |
 <!-- eos_token_list_end -->
 
 ## BOS Token List
