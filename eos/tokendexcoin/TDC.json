@@ -1,0 +1,17 @@
+{
+    "name": "tokendex",
+    "symbol": "TDC",
+    "account": "tokendexcoin",
+    "precision": 4,
+    "issuer": "tokendexteam",
+    "desc": {
+        "zh": "tokendex是基于EOS及其侧链的完全去中心化的交易所,链上撮合,链上交易,链上存储,交易速度快,匹配即时到账,不管理账户资金",
+        "en": "tokendex is eos dexchange"
+    },
+    "website": "http://tokendex.one",
+    "whitepaper": "https://github.com/tokendexone/whitepaper",
+    "links": {
+        "telegram": "https://t.me/tokendexone",
+        "twitter": "https://twitter.com/tokendexone"
+    }
+}
