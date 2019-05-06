@@ -1,0 +1,11 @@
+{
+  "name": "RIDL",
+  "symbol": "RIDL",
+  "contract": "ridlridlcoin",
+  "precision": 4,
+  "issuer": "ridlridlcoin",
+  "desc": "Scatter is an EOS digital asset storage tool.",
+  "website": "https://get-scatter.com",
+  "whitepaper": "",
+  "links": {}
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BINGO",
+  "symbol": "BINGO",
+  "contract": "bingobetoken",
+  "precision": 4,
+  "issuer": "bingobetoken",
+  "desc": "The first American Roulette is made fully trustless on the fastest and feeless EOS blockchain!",
+  "website": "https://bingobet.one",
+  "whitepaper": "",
+  "links": {}
+}

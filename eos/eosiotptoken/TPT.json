@@ -1,0 +1,11 @@
+{
+  "name": "TPT",
+  "symbol": "TPT",
+  "contract": "eosiotptoken",
+  "precision": 4,
+  "issuer": "eosiotptoken",
+  "desc": "TPT——TokenPocket Token, is an application-based token that represents the rights of TP users and developers in the TokenPocket ecosystem. It is also an important bridge among wallets, users and project developers.",
+  "website": "https://www.tokenpocket.pro",
+  "whitepaper": "",
+  "links": {}
+}
