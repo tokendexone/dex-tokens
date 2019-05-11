@@ -56,6 +56,15 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 <!-- eos_token_list_start -->
 |   Logo    | Symbol      | Account Name |
 | ----------- |:------------:|:------------:|
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/DICE.png" width=30 />  | [DICE](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/DICE.json) | [undefined](http://tokendex.one/pair/eosdice) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/BG.png" width=30 />  | [BG](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/BG.json) | [undefined](http://tokendex.one/pair/eosbg) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/BINGO.png" width=30 />  | [BINGO](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/BINGO.json) | [undefined](http://tokendex.one/pair/eosbingo) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/ET.png" width=30 />  | [ET](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/ET.json) | [undefined](http://tokendex.one/pair/eoset) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/EOSABC.png" width=30 />  | [EOSABC](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/EOSABC.json) | [undefined](http://tokendex.one/pair/eoseosabc) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/EOSDAC.png" width=30 />  | [EOSDAC](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/EOSDAC.json) | [undefined](http://tokendex.one/pair/eoseosdac) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/TPT.png" width=30 />  | [TPT](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/TPT.json) | [undefined](http://tokendex.one/pair/eostpt) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/IQ.png" width=30 />  | [IQ](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/IQ.json) | [undefined](http://tokendex.one/pair/eosiq) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/RIDL.png" width=30 />  | [RIDL](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/undefined/RIDL.json) | [undefined](http://tokendex.one/pair/eosridl) |
 |  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/tokendexcoin/TDC.png" width=30 />  | [TDC](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/tokendexcoin/TDC.json) | [tokendexcoin](http://tokendex.one/pair/eostdc) |
 <!-- eos_token_list_end -->
 
