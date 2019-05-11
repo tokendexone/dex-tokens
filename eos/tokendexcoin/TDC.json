@@ -1,7 +1,7 @@
 {
     "name": "tokendex",
     "symbol": "TDC",
-    "account": "tokendexcoin",
+    "contract": "tokendexcoin",
     "precision": 4,
     "issuer": "tokendexteam",
     "desc": {

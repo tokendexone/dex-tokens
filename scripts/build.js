@@ -12,7 +12,7 @@ blockchains.forEach(blockchain=>{
     }, [])
     
     let tokensMd = tokens.reduce((reduced, token) => {
-        return reduced + `|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/${blockchain}/${token.account}/${token.symbol}.png" width=30 />  | [${token.symbol}](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/${blockchain}/${token.account}/${token.symbol}.json) | [${token.account}](http://tokendex.one/pair/${blockchain.toLowerCase()}${token.symbol.toLowerCase()}) |\n`
+        return reduced + `|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/${blockchain}/${token.contract}/${token.symbol}.png" width=30 />  | [${token.symbol}](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/${blockchain}/${token.contract}/${token.symbol}.json) | [${token.contract}](http://tokendex.one/pair/${blockchain.toLowerCase()}${token.symbol.toLowerCase()}) |\n`
     }, '|   Logo    | Symbol      | Account Name |\n| ----------- |:------------:|:------------:|\n')
 
     let start_tag = blockchain + '_token_list_start'
