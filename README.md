@@ -63,7 +63,9 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 |  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/eosabctokens/EOSABC.png" width=30 />  | [EOSABC](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/eosabctokens/EOSABC.json) | [eosabctokens](http://tokendex.one/pair/eoseosabc) |
 |  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/eosdactokens/EOSDAC.png" width=30 />  | [EOSDAC](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/eosdactokens/EOSDAC.json) | [eosdactokens](http://tokendex.one/pair/eoseosdac) |
 |  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/eosiotptoken/TPT.png" width=30 />  | [TPT](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/eosiotptoken/TPT.json) | [eosiotptoken](http://tokendex.one/pair/eostpt) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/epraofficial/EPRA.png" width=30 />  | [EPRA](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/epraofficial/EPRA.json) | [epraofficial](http://tokendex.one/pair/eosepra) |
 |  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/everipediaiq/IQ.png" width=30 />  | [IQ](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/everipediaiq/IQ.json) | [everipediaiq](http://tokendex.one/pair/eosiq) |
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/gamebettoken/GBT.png" width=30 />  | [GBT](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/gamebettoken/GBT.json) | [gamebettoken](http://tokendex.one/pair/eosgbt) |
 |  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/ridlridlcoin/RIDL.png" width=30 />  | [RIDL](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/ridlridlcoin/RIDL.json) | [ridlridlcoin](http://tokendex.one/pair/eosridl) |
 |  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/tokendexcoin/TDC.png" width=30 />  | [TDC](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/eos/tokendexcoin/TDC.json) | [tokendexcoin](http://tokendex.one/pair/eostdc) |
 <!-- eos_token_list_end -->
@@ -72,6 +74,7 @@ Please submit your token's JSON file follow template below. [EOS](./tokens/eosio
 <!-- bos_token_list_start -->
 |   Logo    | Symbol      | Account Name |
 | ----------- |:------------:|:------------:|
+|  <img src="https://raw.githubusercontent.com/tokendexone/dex-tokens/master/bos/gamebettoken/GBT.png" width=30 />  | [GBT](https://raw.githubusercontent.com/tokendexone/dex-tokens/master/bos/gamebettoken/GBT.json) | [gamebettoken](http://tokendex.one/pair/bosgbt) |
 <!-- bos_token_list_end -->
 
 ## TELOS Token List

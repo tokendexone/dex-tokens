@@ -1,0 +1,15 @@
+{
+  "name": "GameBet",
+  "symbol": "GBT",
+  "contract": "gamebettoken",
+  "precision": 4,
+  "desc": {
+    "en": "based on EOS contract games",
+    "zh": "基于泛EOS开发的合约小游戏"
+  },
+  "website": "http://gamebet.one",
+  "whitepaper": "",
+  "links": {
+    "telegram": "https://t.me/gamebetone"
+  }
+}
